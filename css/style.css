@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   
+}
+
+h2{
+    padding-left: 25px;
+}
+.main-container{
+    text-align: left;
+}
+input {
+    width: 85%;
+    height: 25px;
+}
+.login {
+    padding-bottom: 30px;
+    padding-left: 25px;
+}
+
+.password {
+    padding-left: 25px;
+}
+
+.inputbox {
+    padding-top: 15px;
+}
+.main-container {
+    border: 2px solid lightgray;
+    
+    width: 450px;
+    height: 400px;
+}
+
+.bottom-container {
+    font-size: 10px;
+}
