@@ -17,7 +17,7 @@ input {
 }
 
 p {
-    padding-left: 30px;
+    /* padding-left: 30px; */
     color: blue;
     font-size: 12px;
 }
@@ -71,6 +71,10 @@ h5 {
     position: absolute;
   } */
 
+  .help{
+    padding-left: 30px;
+}
+
 .form-container {
     border: 2px solid lightgray;
     height: 375px;
@@ -86,6 +90,7 @@ h5 {
     /* padding-top: 40px; */
     width: 350px;
     margin-left: 37%;
+    margin-bottom: 40px;
 }
 
 .create {
@@ -101,6 +106,10 @@ h5 {
 .password {
     padding-left: 30px;
     font-size: 12px;
+}
+
+.forpassword{
+
 }
 
 .inputbox {
